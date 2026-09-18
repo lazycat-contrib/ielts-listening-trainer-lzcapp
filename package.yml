@@ -1,0 +1,15 @@
+package: community.lazycat.app.ielts-listening-trainer
+version: 1.0.0
+name: IELTS Listening Trainer
+description: "IELTS 听力训练：119 篇题库管理、每日练习记录、正确率统计"
+min_os_version: 1.5.0
+author: linker1011
+license: UNLICENSED
+homepage: https://github.com/linker1011/linker1011-IELTS-listening-trainer
+locales:
+  zh:
+    name: "IELTS 听力训练"
+    description: "IELTS 听力训练系统：119 篇题库（Part 1-4）、每日练习记录、正确率统计、学习数据分析"
+  en:
+    name: "IELTS Listening Trainer"
+    description: "IELTS listening trainer: 119 practice sets (Part 1-4), daily practice logs, accuracy stats"

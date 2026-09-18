@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" fill="none">
+  <rect width="300" height="200" rx="16" fill="#EEF0FF" opacity=".5"/>
+  <!-- Book -->
+  <rect x="110" y="60" width="80" height="60" rx="6" fill="#6366F1" opacity=".15"/>
+  <rect x="118" y="68" width="64" height="6" rx="3" fill="#6366F1" opacity=".25"/>
+  <rect x="118" y="80" width="48" height="4" rx="2" fill="#6366F1" opacity=".18"/>
+  <rect x="118" y="90" width="56" height="4" rx="2" fill="#6366F1" opacity=".18"/>
+  <rect x="118" y="100" width="40" height="4" rx="2" fill="#6366F1" opacity=".15"/>
+  <!-- Headphones icon -->
+  <path d="M135 125a25 25 0 0 1 30 0" stroke="#6366F1" stroke-width="4" stroke-linecap="round" opacity=".25"/>
+  <rect x="130" y="120" width="10" height="16" rx="5" fill="#6366F1" opacity=".18"/>
+  <rect x="160" y="120" width="10" height="16" rx="5" fill="#6366F1" opacity=".18"/>
+  <!-- Sparkles -->
+  <circle cx="210" cy="75" r="3" fill="#6366F1" opacity=".2"/>
+  <circle cx="100" cy="100" r="2" fill="#22C55E" opacity=".2"/>
+  <circle cx="205" cy="105" r="2" fill="#F59E0B" opacity=".2"/>
+</svg>
